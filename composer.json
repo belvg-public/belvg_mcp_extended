@@ -1,0 +1,26 @@
+{
+	"name": "belvg/belvg_mcp_extended",
+	"version": "1.0.0",
+	"description": "BelVG Extensions for PrestaShop MCP Server",
+	"author": "BelVG",
+	"type": "prestashop-module",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "BelVG",
+			"email": "pavel@belvg.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"BelVG\\Module\\McpExtended\\": "src/"
+		},
+		"classmap": [
+			"belvg_mcp_extended.php"
+		]
+	},
+	"config": {
+		"preferred-install": "dist",
+		"prepend-autoloader": false
+	}
+}
