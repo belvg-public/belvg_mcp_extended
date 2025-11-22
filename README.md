@@ -2,7 +2,7 @@
 
 **BelVG MCP Extensions** transforms your PrestaShop store from a passive data source into an intelligent, agentic system.
 
-By extending the official [PrestaShop MCP Server](https://github.com/PrestaShopCorp/ps_mcp_server), this module adds high-level business logic tools that allow AI agents (like ChatGPT, Claude, or Gemini) to perform complex management tasks—such as generating daily briefings or scanning for low stock—with a single command.
+By extending the official [PrestaShop MCP Server](https://addons.prestashop.com/en/administrative-tools/96617-prestashop-mcp-server.html), this module adds high-level business logic tools that allow AI agents (like ChatGPT, Claude, or Gemini) to perform complex management tasks—such as generating daily briefings or scanning for low stock—with a single command.
 
 ## **🌟 Features**
 
